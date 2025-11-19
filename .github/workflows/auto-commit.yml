@@ -1,7 +1,10 @@
 name: Auto GitHub Contributions
+
 permissions:
   contents: write
-
+  actions: read
+  checks: write
+  
 on:
   schedule:
     - cron: '* * * * *'   # runs every hour

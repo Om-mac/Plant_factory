@@ -25,8 +25,8 @@ jobs:
 
       - name: Commit & Push changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.name "Om-mac"
+          git config --global user.email "omtapdiya75@gmail.com"
           git add .
           git commit -m "Auto: $(date)" || exit 0
           git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Om-mac/Plant_factory.git

@@ -22,3 +22,4 @@
 🌲 Forest cycle tweak
 🌋 Cycle spike record
 🧿 Regenerated pattern
+🔭 Micro observation log

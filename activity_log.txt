@@ -20,3 +20,4 @@
 📦 Routine update
 🍃 Background update
 🌲 Forest cycle tweak
+🌋 Cycle spike record

@@ -48,3 +48,4 @@
 ✨ Small refinement
 🟦 Hourly log refresh
 🌡️ Temp fluctuation note
+🪴 Greenhouse log

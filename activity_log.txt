@@ -41,3 +41,4 @@
 🪴 Greenhouse log
 🚀 Automated update
 🔍 Micro tweak
+🌤️ Daily climate marker

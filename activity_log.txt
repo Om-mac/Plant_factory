@@ -65,3 +65,4 @@
 🔥 System heartbeat
 🌡️ Temp fluctuation note
 ⭐ Auto graph bump
+🪴 Greenhouse log

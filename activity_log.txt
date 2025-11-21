@@ -66,3 +66,4 @@
 🌡️ Temp fluctuation note
 ⭐ Auto graph bump
 🪴 Greenhouse log
+🌬️ Airflow update

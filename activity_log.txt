@@ -49,3 +49,4 @@
 🟦 Hourly log refresh
 🌡️ Temp fluctuation note
 🪴 Greenhouse log
+📚 Data line added

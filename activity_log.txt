@@ -68,3 +68,4 @@
 🪴 Greenhouse log
 🌬️ Airflow update
 🧩 Auto patch piece
+🌙 Night cycle patch

@@ -92,3 +92,4 @@
 🌿 Routine plant cycle log
 🟦 Hourly log refresh
 ✨ Auto polished data
+🪴 Greenhouse log

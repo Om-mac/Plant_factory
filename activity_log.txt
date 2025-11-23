@@ -125,3 +125,4 @@
 🌬️ Airflow update
 📚 Data line added
 ♻️ Cycle refresh
+📈 Log refresh

@@ -111,3 +111,4 @@
 🧪 Auto experiment log
 📈 Log refresh
 ♻️ Cycle refresh
+🌋 Cycle spike record

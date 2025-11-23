@@ -114,3 +114,4 @@
 🌋 Cycle spike record
 ✨ Small refinement
 📝 Daily stat bump
+🕒 Hourly cycle mark

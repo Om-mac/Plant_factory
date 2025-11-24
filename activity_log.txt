@@ -135,3 +135,4 @@
 🍀 Model micro-update
 🕒 Hourly cycle mark
 🪴 Greenhouse log
+⚙️ Scheduled maintenance

@@ -134,3 +134,4 @@
 💧 Water cycle updated
 🍀 Model micro-update
 🕒 Hourly cycle mark
+🪴 Greenhouse log

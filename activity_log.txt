@@ -222,3 +222,4 @@
 📝 Daily stat bump
 🔄 Automated sync
 🟩 Data regen
+🌬️ Airflow update

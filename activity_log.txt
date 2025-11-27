@@ -227,3 +227,4 @@
 📡 Auto signal update
 📈 Log refresh
 🧩 Auto patch piece
+♻️ Cycle refresh

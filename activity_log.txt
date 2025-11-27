@@ -255,3 +255,4 @@
 🟦 Hourly log refresh
 📈 Log refresh
 🍃 Background update
+🌲 Forest cycle tweak

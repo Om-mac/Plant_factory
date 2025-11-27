@@ -254,3 +254,4 @@
 📦 Routine update
 🟦 Hourly log refresh
 📈 Log refresh
+🍃 Background update

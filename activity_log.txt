@@ -240,3 +240,4 @@
 🌏 Daily rotation mark
 🔭 Micro observation log
 🌾 Updated vegetation data
+📦 Routine update

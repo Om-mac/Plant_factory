@@ -253,3 +253,4 @@
 🔭 Micro observation log
 📦 Routine update
 🟦 Hourly log refresh
+📈 Log refresh

@@ -269,3 +269,4 @@
 🌙 Night cycle patch
 🕒 Hourly cycle mark
 🌼 Bloom cycle refreshed
+🌋 Cycle spike record

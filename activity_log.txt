@@ -270,3 +270,4 @@
 🕒 Hourly cycle mark
 🌼 Bloom cycle refreshed
 🌋 Cycle spike record
+🧠 Pattern check

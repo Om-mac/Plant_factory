@@ -294,3 +294,4 @@
 ⚙️ Scheduled maintenance
 🌲 Forest cycle tweak
 📚 Data line added
+🪴 Greenhouse log

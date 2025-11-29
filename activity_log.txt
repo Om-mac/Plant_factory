@@ -318,3 +318,4 @@
 🔋 Activity tick
 🏷️ System auto-note
 🍀 Model micro-update
+🌋 Cycle spike record

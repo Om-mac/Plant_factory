@@ -297,3 +297,4 @@
 🪴 Greenhouse log
 🌿 Routine plant cycle log
 📡 Auto signal update
+📚 Data line added

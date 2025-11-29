@@ -295,3 +295,4 @@
 🌲 Forest cycle tweak
 📚 Data line added
 🪴 Greenhouse log
+🌿 Routine plant cycle log

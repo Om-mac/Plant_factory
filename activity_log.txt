@@ -346,3 +346,4 @@
 📡 Auto signal update
 📝 Daily stat bump
 ⚙️ Scheduled maintenance
+🍃 Background update

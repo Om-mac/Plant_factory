@@ -325,3 +325,4 @@
 🟦 Hourly log refresh
 ⚙️ Scheduled maintenance
 🧪 Auto experiment log
+🪴 Greenhouse log

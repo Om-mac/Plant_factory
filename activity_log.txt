@@ -330,3 +330,4 @@
 🌿 Routine plant cycle log
 ✨ Auto polished data
 ✨ Auto polished data
+⚙️ Scheduled maintenance

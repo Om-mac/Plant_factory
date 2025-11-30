@@ -327,3 +327,4 @@
 🧪 Auto experiment log
 🪴 Greenhouse log
 ⭐ Auto graph bump
+🌿 Routine plant cycle log

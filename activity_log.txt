@@ -338,3 +338,4 @@
 🌾 Updated vegetation data
 🌲 Forest cycle tweak
 🌱 Growth update
+🌻 New growth pattern

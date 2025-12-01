@@ -380,3 +380,4 @@
 🕒 Hourly cycle mark
 🕒 Hourly cycle mark
 📜 Background log update
+📈 Log refresh

@@ -374,3 +374,4 @@
 🍃 Background update
 🟩 Data regen
 🔄 Automated sync
+🌻 New growth pattern

@@ -386,3 +386,4 @@
 🔋 Activity tick
 🏷️ System auto-note
 🔍 Micro tweak
+🪴 Greenhouse log

@@ -372,3 +372,4 @@
 🔄 Automated sync
 🌤️ Daily climate marker
 🍃 Background update
+🟩 Data regen

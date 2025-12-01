@@ -382,3 +382,4 @@
 📜 Background log update
 📈 Log refresh
 🔥 System heartbeat
+🌼 Bloom cycle refreshed

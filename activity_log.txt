@@ -388,3 +388,4 @@
 🔍 Micro tweak
 🪴 Greenhouse log
 ⭐ Auto graph bump
+🟩 Data regen

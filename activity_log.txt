@@ -415,3 +415,4 @@
 🔄 Automated sync
 🌿 Routine plant cycle log
 🌙 Night cycle patch
+🧠 Pattern check

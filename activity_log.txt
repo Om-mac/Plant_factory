@@ -398,3 +398,4 @@
 🌡️ Temp fluctuation note
 🟪 Automated patch
 🪴 Greenhouse log
+🔄 Automated sync

@@ -414,3 +414,4 @@
 🔭 Micro observation log
 🔄 Automated sync
 🌿 Routine plant cycle log
+🌙 Night cycle patch

@@ -421,3 +421,4 @@
 🧿 Regenerated pattern
 🧪 Auto experiment log
 📈 Log refresh
+🔭 Micro observation log

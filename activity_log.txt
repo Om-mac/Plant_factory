@@ -397,3 +397,4 @@
 📘 Log increment
 🌡️ Temp fluctuation note
 🟪 Automated patch
+🪴 Greenhouse log

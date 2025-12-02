@@ -405,3 +405,4 @@
 🌱 Growth update
 🍃 Background update
 🌿 Routine plant cycle log
+🔋 Activity tick

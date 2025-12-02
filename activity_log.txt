@@ -406,3 +406,4 @@
 🍃 Background update
 🌿 Routine plant cycle log
 🔋 Activity tick
+📡 Auto signal update

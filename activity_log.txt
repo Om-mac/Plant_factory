@@ -440,3 +440,4 @@
 🌼 Bloom cycle refreshed
 🕒 Hourly cycle mark
 🟩 Data regen
+🌡️ Temp fluctuation note

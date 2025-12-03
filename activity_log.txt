@@ -437,3 +437,4 @@
 🔭 Micro observation log
 📈 Log refresh
 🌿 Routine plant cycle log
+🌼 Bloom cycle refreshed

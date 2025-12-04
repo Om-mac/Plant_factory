@@ -472,3 +472,4 @@
 🕒 Hourly cycle mark
 🔧 Small maintenance change
 🔭 Micro observation log
+🌿 Routine plant cycle log

@@ -498,3 +498,4 @@
 🟩 Data regen
 📜 Background log update
 🧰 Minor fix
+🪴 Greenhouse log

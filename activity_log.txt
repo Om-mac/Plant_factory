@@ -508,3 +508,4 @@
 ⭐ Auto graph bump
 🔥 System heartbeat
 🔋 Activity tick
+🍃 Background update

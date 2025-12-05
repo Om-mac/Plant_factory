@@ -509,3 +509,4 @@
 🔥 System heartbeat
 🔋 Activity tick
 🍃 Background update
+🌾 Updated vegetation data

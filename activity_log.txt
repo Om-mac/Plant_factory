@@ -495,3 +495,4 @@
 📦 Routine update
 🌿 Routine plant cycle log
 🧠 Pattern check
+🟩 Data regen

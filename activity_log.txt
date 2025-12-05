@@ -493,3 +493,4 @@
 🔋 Activity tick
 📈 Log refresh
 📦 Routine update
+🌿 Routine plant cycle log

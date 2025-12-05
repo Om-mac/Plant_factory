@@ -492,3 +492,4 @@
 📡 Auto signal update
 🔋 Activity tick
 📈 Log refresh
+📦 Routine update

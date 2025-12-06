@@ -526,3 +526,4 @@
 🔋 Activity tick
 🌲 Forest cycle tweak
 🌤️ Daily climate marker
+🌻 New growth pattern

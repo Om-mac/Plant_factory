@@ -527,3 +527,4 @@
 🌲 Forest cycle tweak
 🌤️ Daily climate marker
 🌻 New growth pattern
+🌼 Bloom cycle refreshed

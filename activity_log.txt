@@ -538,3 +538,4 @@
 🏷️ System auto-note
 🪴 Greenhouse log
 🌋 Cycle spike record
+🌾 Updated vegetation data

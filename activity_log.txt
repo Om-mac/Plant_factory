@@ -536,3 +536,4 @@
 🧿 Regenerated pattern
 🧠 Pattern check
 🏷️ System auto-note
+🪴 Greenhouse log

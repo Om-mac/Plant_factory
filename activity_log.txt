@@ -573,3 +573,4 @@
 🍀 Model micro-update
 🔋 Activity tick
 🌡️ Temp fluctuation note
+📦 Routine update

@@ -587,3 +587,4 @@
 📜 Background log update
 🔋 Activity tick
 🧪 Auto experiment log
+🌋 Cycle spike record

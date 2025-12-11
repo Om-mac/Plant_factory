@@ -679,3 +679,4 @@
 📘 Log increment
 📌 Minor adjustments
 🌿 Routine plant cycle log
+🏷️ System auto-note

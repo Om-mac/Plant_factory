@@ -675,3 +675,4 @@
 🌡️ Temp fluctuation note
 🌤️ Daily climate marker
 🕒 Hourly cycle mark
+🔥 System heartbeat

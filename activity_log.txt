@@ -692,3 +692,4 @@
 🌾 Updated vegetation data
 📈 Log refresh
 🏷️ System auto-note
+🪴 Greenhouse log

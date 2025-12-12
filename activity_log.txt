@@ -703,3 +703,4 @@
 🪴 Greenhouse log
 🔥 System heartbeat
 🟦 Hourly log refresh
+🧩 Auto patch piece

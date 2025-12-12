@@ -700,3 +700,4 @@
 🎯 Update triggered
 🌬️ Airflow update
 📊 Data reshuffle
+🪴 Greenhouse log

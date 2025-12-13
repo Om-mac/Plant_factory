@@ -753,3 +753,4 @@
 🔋 Activity tick
 🔧 Small maintenance change
 🔋 Activity tick
+🌤️ Daily climate marker

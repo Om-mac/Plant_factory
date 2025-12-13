@@ -755,3 +755,4 @@
 🔋 Activity tick
 🌤️ Daily climate marker
 🧿 Regenerated pattern
+📦 Routine update

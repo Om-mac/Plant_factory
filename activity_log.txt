@@ -728,3 +728,4 @@
 🌲 Forest cycle tweak
 ⭐ Auto graph bump
 📦 Routine update
+🌿 Routine plant cycle log

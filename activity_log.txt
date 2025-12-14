@@ -774,3 +774,4 @@
 🌻 New growth pattern
 🪴 Greenhouse log
 🏷️ System auto-note
+🌱 Growth update

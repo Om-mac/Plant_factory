@@ -762,3 +762,4 @@
 🟪 Automated patch
 📘 Log increment
 🔄 Automated sync
+🍃 Background update

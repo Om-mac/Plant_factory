@@ -773,3 +773,4 @@
 🌡️ Temp fluctuation note
 🌻 New growth pattern
 🪴 Greenhouse log
+🏷️ System auto-note

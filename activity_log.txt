@@ -763,3 +763,4 @@
 📘 Log increment
 🔄 Automated sync
 🍃 Background update
+🌤️ Daily climate marker

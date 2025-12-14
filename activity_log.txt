@@ -775,3 +775,4 @@
 🪴 Greenhouse log
 🏷️ System auto-note
 🌱 Growth update
+🕒 Hourly cycle mark

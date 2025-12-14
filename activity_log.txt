@@ -772,3 +772,4 @@
 🔐 Automated safe change
 🌡️ Temp fluctuation note
 🌻 New growth pattern
+🪴 Greenhouse log

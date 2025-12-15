@@ -807,3 +807,4 @@
 🔥 System heartbeat
 📝 Daily stat bump
 🍃 Background update
+🪴 Greenhouse log

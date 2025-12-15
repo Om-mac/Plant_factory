@@ -809,3 +809,4 @@
 🍃 Background update
 🪴 Greenhouse log
 🧪 Auto experiment log
+🌬️ Airflow update

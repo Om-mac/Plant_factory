@@ -787,3 +787,4 @@
 🏷️ System auto-note
 📈 Log refresh
 🌡️ Temp fluctuation note
+🟦 Hourly log refresh

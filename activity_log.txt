@@ -839,3 +839,4 @@
 🧠 Pattern check
 🌤️ Daily climate marker
 🌋 Cycle spike record
+🌏 Daily rotation mark

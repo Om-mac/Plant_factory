@@ -820,3 +820,4 @@
 🌏 Daily rotation mark
 🪴 Greenhouse log
 ♻️ Cycle refresh
+🔍 Micro tweak

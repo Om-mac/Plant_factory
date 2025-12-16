@@ -843,3 +843,4 @@
 🌼 Bloom cycle refreshed
 🎯 Update triggered
 🌱 Growth update
+🍃 Background update

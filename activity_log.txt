@@ -819,3 +819,4 @@
 🌿 Routine plant cycle log
 🌏 Daily rotation mark
 🪴 Greenhouse log
+♻️ Cycle refresh

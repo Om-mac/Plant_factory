@@ -821,3 +821,4 @@
 🪴 Greenhouse log
 ♻️ Cycle refresh
 🔍 Micro tweak
+🌤️ Daily climate marker

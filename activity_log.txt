@@ -822,3 +822,4 @@
 ♻️ Cycle refresh
 🔍 Micro tweak
 🌤️ Daily climate marker
+🌲 Forest cycle tweak

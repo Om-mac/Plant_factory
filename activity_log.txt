@@ -833,3 +833,4 @@
 🌾 Updated vegetation data
 🧰 Minor fix
 🍀 Model micro-update
+🌡️ Temp fluctuation note

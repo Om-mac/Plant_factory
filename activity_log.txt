@@ -876,3 +876,4 @@
 🧠 Pattern check
 💧 Water cycle updated
 🔐 Automated safe change
+🪴 Greenhouse log

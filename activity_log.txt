@@ -879,3 +879,4 @@
 🪴 Greenhouse log
 🕒 Hourly cycle mark
 💧 Water cycle updated
+🌋 Cycle spike record

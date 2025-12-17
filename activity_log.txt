@@ -860,3 +860,4 @@
 📚 Data line added
 ⚙️ Scheduled maintenance
 🔄 Automated sync
+🌏 Daily rotation mark

@@ -887,3 +887,4 @@
 📝 Daily stat bump
 🍀 Model micro-update
 🔋 Activity tick
+📦 Routine update

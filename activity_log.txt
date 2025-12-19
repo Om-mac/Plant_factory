@@ -942,3 +942,4 @@
 🌻 New growth pattern
 📘 Log increment
 🌻 New growth pattern
+🌾 Updated vegetation data

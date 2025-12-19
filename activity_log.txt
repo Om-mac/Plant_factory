@@ -947,3 +947,4 @@
 🪴 Greenhouse log
 📘 Log increment
 🌾 Updated vegetation data
+📜 Background log update

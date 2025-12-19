@@ -923,3 +923,4 @@
 🔋 Activity tick
 🌱 Growth update
 🔭 Micro observation log
+🪴 Greenhouse log

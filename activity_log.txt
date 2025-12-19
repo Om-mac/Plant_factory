@@ -920,3 +920,4 @@
 🔭 Micro observation log
 🌙 Night cycle patch
 🪴 Greenhouse log
+🔋 Activity tick

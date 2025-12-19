@@ -921,3 +921,4 @@
 🌙 Night cycle patch
 🪴 Greenhouse log
 🔋 Activity tick
+🌱 Growth update

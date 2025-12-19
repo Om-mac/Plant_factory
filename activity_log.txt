@@ -919,3 +919,4 @@
 🕒 Hourly cycle mark
 🔭 Micro observation log
 🌙 Night cycle patch
+🪴 Greenhouse log

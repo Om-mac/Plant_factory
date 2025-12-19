@@ -924,3 +924,4 @@
 🌱 Growth update
 🔭 Micro observation log
 🪴 Greenhouse log
+🍀 Model micro-update

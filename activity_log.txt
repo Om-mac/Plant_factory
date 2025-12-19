@@ -946,3 +946,4 @@
 ⚙️ Scheduled maintenance
 🪴 Greenhouse log
 📘 Log increment
+🌾 Updated vegetation data

@@ -918,3 +918,4 @@
 🔭 Micro observation log
 🕒 Hourly cycle mark
 🔭 Micro observation log
+🌙 Night cycle patch

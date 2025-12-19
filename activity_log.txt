@@ -928,3 +928,4 @@
 ♻️ Cycle refresh
 📊 Data reshuffle
 🌲 Forest cycle tweak
+🧪 Auto experiment log

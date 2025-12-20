@@ -970,3 +970,4 @@
 ⚙️ Scheduled maintenance
 ⚙️ Scheduled maintenance
 🔄 Automated sync
+🟦 Hourly log refresh

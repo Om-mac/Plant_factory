@@ -1000,3 +1000,4 @@
 ♻️ Cycle refresh
 ⚙️ Scheduled maintenance
 🧠 Pattern check
+⚙️ Scheduled maintenance

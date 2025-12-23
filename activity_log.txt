@@ -1055,3 +1055,4 @@
 🟩 Data regen
 🔍 Micro tweak
 🎯 Update triggered
+🌾 Updated vegetation data

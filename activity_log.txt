@@ -1074,3 +1074,4 @@
 🌲 Forest cycle tweak
 🍀 Model micro-update
 🧩 Auto patch piece
+🍃 Background update

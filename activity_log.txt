@@ -1081,3 +1081,4 @@
 📚 Data line added
 🪴 Greenhouse log
 🌲 Forest cycle tweak
+🔋 Activity tick

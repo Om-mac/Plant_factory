@@ -1082,3 +1082,4 @@
 🪴 Greenhouse log
 🌲 Forest cycle tweak
 🔋 Activity tick
+📦 Routine update

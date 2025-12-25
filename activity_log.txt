@@ -1133,3 +1133,4 @@
 🌏 Daily rotation mark
 🌤️ Daily climate marker
 🔍 Micro tweak
+🌋 Cycle spike record

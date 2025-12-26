@@ -1150,3 +1150,4 @@
 🔄 Automated sync
 🚀 Automated update
 🌲 Forest cycle tweak
+🍃 Background update

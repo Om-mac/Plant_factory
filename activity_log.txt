@@ -1155,3 +1155,4 @@
 🌋 Cycle spike record
 📦 Routine update
 ♻️ Cycle refresh
+🪴 Greenhouse log

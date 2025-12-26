@@ -1164,3 +1164,4 @@
 🏷️ System auto-note
 🟪 Automated patch
 🔋 Activity tick
+📦 Routine update

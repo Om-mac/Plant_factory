@@ -1165,3 +1165,4 @@
 🟪 Automated patch
 🔋 Activity tick
 📦 Routine update
+🌬️ Airflow update

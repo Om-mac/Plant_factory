@@ -1196,3 +1196,4 @@
 🧩 Auto patch piece
 🟩 Data regen
 🌻 New growth pattern
+🪴 Greenhouse log

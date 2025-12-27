@@ -1185,3 +1185,4 @@
 🏷️ System auto-note
 🌏 Daily rotation mark
 🌱 Growth update
+🌾 Updated vegetation data

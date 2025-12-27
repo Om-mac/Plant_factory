@@ -1204,3 +1204,4 @@
 ♻️ Cycle refresh
 📡 Auto signal update
 🕒 Hourly cycle mark
+📈 Log refresh

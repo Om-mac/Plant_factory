@@ -1186,3 +1186,4 @@
 🌏 Daily rotation mark
 🌱 Growth update
 🌾 Updated vegetation data
+📈 Log refresh

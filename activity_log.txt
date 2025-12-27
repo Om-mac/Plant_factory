@@ -1187,3 +1187,4 @@
 🌱 Growth update
 🌾 Updated vegetation data
 📈 Log refresh
+🔭 Micro observation log

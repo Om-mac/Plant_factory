@@ -1199,3 +1199,4 @@
 🪴 Greenhouse log
 🔥 System heartbeat
 🧰 Minor fix
+🌡️ Temp fluctuation note

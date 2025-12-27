@@ -1197,3 +1197,4 @@
 🟩 Data regen
 🌻 New growth pattern
 🪴 Greenhouse log
+🔥 System heartbeat

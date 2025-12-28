@@ -1237,3 +1237,4 @@
 🍃 Background update
 ⭐ Auto graph bump
 🌼 Bloom cycle refreshed
+🌤️ Daily climate marker

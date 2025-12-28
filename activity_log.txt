@@ -1234,3 +1234,4 @@
 🧿 Regenerated pattern
 ⚙️ Scheduled maintenance
 📡 Auto signal update
+🍃 Background update

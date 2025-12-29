@@ -1265,3 +1265,4 @@
 🎯 Update triggered
 🍃 Background update
 ♻️ Cycle refresh
+🪴 Greenhouse log

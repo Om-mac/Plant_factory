@@ -1263,3 +1263,4 @@
 🪴 Greenhouse log
 🌏 Daily rotation mark
 🎯 Update triggered
+🍃 Background update

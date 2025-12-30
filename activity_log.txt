@@ -1278,3 +1278,4 @@
 🌏 Daily rotation mark
 🌋 Cycle spike record
 📈 Log refresh
+🪴 Greenhouse log

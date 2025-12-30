@@ -1279,3 +1279,4 @@
 🌋 Cycle spike record
 📈 Log refresh
 🪴 Greenhouse log
+🌿 Routine plant cycle log

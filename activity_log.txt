@@ -1266,3 +1266,4 @@
 🍃 Background update
 ♻️ Cycle refresh
 🪴 Greenhouse log
+📡 Auto signal update

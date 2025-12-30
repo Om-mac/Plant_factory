@@ -1280,3 +1280,4 @@
 📈 Log refresh
 🪴 Greenhouse log
 🌿 Routine plant cycle log
+📈 Log refresh

@@ -1281,3 +1281,4 @@
 🪴 Greenhouse log
 🌿 Routine plant cycle log
 📈 Log refresh
+🌬️ Airflow update

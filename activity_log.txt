@@ -1288,3 +1288,4 @@
 ♻️ Cycle refresh
 ⚙️ Scheduled maintenance
 📦 Routine update
+🟦 Hourly log refresh

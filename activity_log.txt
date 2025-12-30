@@ -1267,3 +1267,4 @@
 ♻️ Cycle refresh
 🪴 Greenhouse log
 📡 Auto signal update
+📈 Log refresh

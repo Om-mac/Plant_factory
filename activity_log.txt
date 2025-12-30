@@ -1285,3 +1285,4 @@
 🧰 Minor fix
 🌿 Routine plant cycle log
 ✨ Auto polished data
+♻️ Cycle refresh

@@ -1305,3 +1305,4 @@
 🧿 Regenerated pattern
 ♻️ Cycle refresh
 🟩 Data regen
+📊 Data reshuffle

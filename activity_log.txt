@@ -1339,3 +1339,4 @@
 🌼 Bloom cycle refreshed
 🍀 Model micro-update
 🧰 Minor fix
+🌲 Forest cycle tweak

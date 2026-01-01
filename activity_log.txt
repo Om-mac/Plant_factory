@@ -1357,3 +1357,4 @@
 🟩 Data regen
 🌋 Cycle spike record
 🧠 Pattern check
+⚙️ Scheduled maintenance

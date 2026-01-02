@@ -1374,3 +1374,4 @@
 🌏 Daily rotation mark
 🪴 Greenhouse log
 🎲 Randomized commit
+🔭 Micro observation log

@@ -1372,3 +1372,4 @@
 🟦 Hourly log refresh
 ♻️ Cycle refresh
 🌏 Daily rotation mark
+🪴 Greenhouse log

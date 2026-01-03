@@ -1403,3 +1403,4 @@
 🎯 Update triggered
 🌿 Routine plant cycle log
 ✨ Small refinement
+♻️ Cycle refresh

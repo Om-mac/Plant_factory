@@ -1439,3 +1439,4 @@
 🧪 Auto experiment log
 🌲 Forest cycle tweak
 🔧 Small maintenance change
+🟩 Data regen

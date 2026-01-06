@@ -1520,3 +1520,4 @@
 🌙 Night cycle patch
 ⚙️ Scheduled maintenance
 🌲 Forest cycle tweak
+🌤️ Daily climate marker

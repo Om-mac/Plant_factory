@@ -1521,3 +1521,4 @@
 ⚙️ Scheduled maintenance
 🌲 Forest cycle tweak
 🌤️ Daily climate marker
+🔭 Micro observation log

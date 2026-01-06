@@ -1505,3 +1505,4 @@
 🔍 Micro tweak
 🌙 Night cycle patch
 🌤️ Daily climate marker
+🌋 Cycle spike record

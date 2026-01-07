@@ -1552,3 +1552,4 @@
 🍃 Background update
 📘 Log increment
 🟦 Hourly log refresh
+🪴 Greenhouse log

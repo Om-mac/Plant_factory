@@ -1546,3 +1546,4 @@
 🔋 Activity tick
 🌬️ Airflow update
 🔄 Automated sync
+🌱 Growth update

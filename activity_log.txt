@@ -1573,3 +1573,4 @@
 🎯 Update triggered
 🌬️ Airflow update
 📊 Data reshuffle
+🟩 Data regen

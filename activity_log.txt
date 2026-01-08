@@ -1571,3 +1571,4 @@
 🌿 Routine plant cycle log
 📡 Auto signal update
 🎯 Update triggered
+🌬️ Airflow update

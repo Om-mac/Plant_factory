@@ -1596,3 +1596,4 @@
 🔥 System heartbeat
 ⭐ Auto graph bump
 🟦 Hourly log refresh
+🪴 Greenhouse log

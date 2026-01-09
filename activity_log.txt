@@ -1602,3 +1602,4 @@
 🪴 Greenhouse log
 🏷️ System auto-note
 🌱 Growth update
+🌋 Cycle spike record

@@ -1601,3 +1601,4 @@
 🟦 Hourly log refresh
 🪴 Greenhouse log
 🏷️ System auto-note
+🌱 Growth update

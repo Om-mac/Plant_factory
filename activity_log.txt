@@ -1627,3 +1627,4 @@
 🪴 Greenhouse log
 ⚙️ Scheduled maintenance
 🏷️ System auto-note
+🌋 Cycle spike record

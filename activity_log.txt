@@ -1626,3 +1626,4 @@
 🍃 Background update
 🪴 Greenhouse log
 ⚙️ Scheduled maintenance
+🏷️ System auto-note

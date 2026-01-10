@@ -1624,3 +1624,4 @@
 📜 Background log update
 🏷️ System auto-note
 🍃 Background update
+🪴 Greenhouse log

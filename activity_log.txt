@@ -1625,3 +1625,4 @@
 🏷️ System auto-note
 🍃 Background update
 🪴 Greenhouse log
+⚙️ Scheduled maintenance
